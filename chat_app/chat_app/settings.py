@@ -47,6 +47,8 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 INSTALLED_APPS = [
 
+    'webshell',
+
     "whitenoise.runserver_nostatic",
     # "django.contrib.staticfiles",
 
